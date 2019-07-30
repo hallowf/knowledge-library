@@ -1,7 +1,8 @@
 ---
 layout: default
+title: Knowledge Library
 ---
 
-# Table of contents
+# Knowledge Library
 
 [Security](./security/security.md).
