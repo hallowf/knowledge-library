@@ -1,5 +1,11 @@
 title: knowledge-library
 description: Just a digital library containing information I gathered while studying a bit of everything
+
+baseurl: "/Knowledge-Library"
+url: "https://hallowf.github.io"
+github_username:  hallowf
+
+# Theme settings
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
