@@ -5,5 +5,5 @@ title: Knowledge Library
 
 # Topics
 
-* [Security](./security/security.md).
+* [Security](./security/security.md)
 
